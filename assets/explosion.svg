@@ -1,0 +1,8 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+  <!-- 爆炸中心 -->
+  <circle cx="25" cy="25" r="10" fill="#ff4500" />
+  <!-- 爆炸光芒 -->
+  <path d="M25,5 L28,20 L40,15 L30,25 L45,30 L30,35 L40,45 L25,40 L20,50 L15,35 L5,40 L15,25 L5,15 L20,20 Z" fill="#ffd700" stroke="#ff4500" stroke-width="1" />
+  <!-- 爆炸冲击波 -->
+  <circle cx="25" cy="25" r="20" fill="none" stroke="#ff8c00" stroke-width="2" opacity="0.7" />
+</svg>

@@ -1,0 +1,8 @@
+<svg width="15" height="15" xmlns="http://www.w3.org/2000/svg">
+  <!-- 导弹主体 -->
+  <path d="M7.5,1 L11,10 L7.5,14 L4,10 Z" fill="#ff4500" stroke="#000" stroke-width="1" />
+  <!-- 导弹尾部 -->
+  <rect x="5" y="10" width="5" height="2" fill="#ff8c00" stroke="#000" stroke-width="0.5" />
+  <!-- 导弹尾焰 -->
+  <path d="M5,12 L3,14 L7.5,13 L12,14 L10,12 Z" fill="#ffff00" stroke="#ff4500" stroke-width="0.5" />
+</svg>
